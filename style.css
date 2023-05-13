@@ -35,3 +35,10 @@ header nav div div form a img{width: 2.5em; height: 2.5em;}
 .col-2{border:solid 0.1em; position: relative; top:0.05em}
 .col{border:solid 0.1em; position: relative; top:3.8em}
 footer{position: relative; top:3em}
+.produimage{height: 17em; width: 17em;}
+.col-6{border: solid 0.2em; position: relative; top: 0.3em;}
+.col-4{border: solid 0.2em; position: relative; top: 0.27em; font-size: 0.949em;}
+.col-6 label{font-size: 1.54em;}
+.prodaimage{height: 5em; width:5em}
+.carpr{font-size: 2.6em;}
+#sobre{font-size: 1.08em;}
