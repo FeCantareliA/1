@@ -1,0 +1,37 @@
+header nav div div form a img{width: 2.5em; height: 2.5em;}
+.modalDialog{
+    position: fixed;
+    font-family: verdana;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(181, 9, 9, 0.8);
+    z-index: 9999;
+    opacity: 0;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in ;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+    display: none;
+}
+.modalDialog:target{
+    display: block;
+    opacity: 1;
+    pointer-events: auto;
+}
+.modalDialog div{
+    width: 31.25em;
+    position: relative;
+    margin: 10% auto;
+    padding: 0.3125em 1.25em 1.0.8125em 1.25em;
+    -webkit-border-radius: 0.75em;
+    -moz-border-radius: 0.75em;
+    border-radius: 0.625em;
+    background-color: #fff;
+}
+.prodimage{width:10em; height: 10em;}
+#Promo2{width: 70%; position: relative; left: 17.9em;}
+.col-2{border:solid 0.1em; position: relative; top:0.05em}
+.col{border:solid 0.1em; position: relative; top:3.8em}
+footer{position: relative; top:3em}
