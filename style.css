@@ -22,6 +22,7 @@ header nav div div form a img{width: 2.5em; height: 2.5em;}
 }
 .modalDialog div{
     width: 31.25em;
+    height: 15em;
     position: relative;
     margin: 10% auto;
     padding: 0.3125em 1.25em 1.0.8125em 1.25em;
@@ -29,6 +30,26 @@ header nav div div form a img{width: 2.5em; height: 2.5em;}
     -moz-border-radius: 0.75em;
     border-radius: 0.625em;
     background-color: #fff;
+}
+.modalbody1{
+    position:relative;
+    top:5em;
+    left:5em;
+}
+.modalbody2{
+    position:relative;
+    top:5em;
+    left:5.4em;
+}
+.modalbody3{
+    position:relative;
+    top:6em;
+    left:6em;
+}
+.modalbody4{
+    position:relative;
+    top:6em;
+    left:6em;
 }
 .prodimage{width:10em; height: 10em;}
 #Promo2{width: 70%; position: relative; left: 17.9em; }
