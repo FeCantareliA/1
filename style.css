@@ -6,7 +6,7 @@ header nav div div form a img{width: 2.5em; height: 2.5em;}
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(181, 9, 9, 0.8);
+    background-color: rgba(26, 18, 18, 0.76);
     z-index: 9999;
     opacity: 0;
     -webkit-transition: opacity 400ms ease-in;
